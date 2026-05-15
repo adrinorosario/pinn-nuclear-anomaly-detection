@@ -1,0 +1,3 @@
+1.  make a diagonistics module to get reasoning for PINN decisions
+2.  make a simluator module to run the dataset 1 by one to get a "live feed" for presentation
+3.  Make a dashboard with and run simluator and model and show 
